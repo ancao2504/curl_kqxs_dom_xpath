@@ -3,4 +3,4 @@ Demo lấy dữ liệu kết quả xổ số bằng kỹ thuật dom xpath
 Tương tự thực hiện thử trang: https://ketqua.vn/xsmn
 Đây chỉ là phần demo cho phần training php chuyên đề curl dom xpath.
 Tài liệu dom xpath: https://www.php.net/manual/en/class.domxpath.php
-Các ví dụ bóc tách dom xpath: https://www.the-art-of-web.com/php/html-xpath-query/
+Các ví dụ bóc tách dom xpath: https://www.the-art-of-web.com/php/html-xpath-query
